@@ -136,3 +136,4 @@ EMAIL_HOST_PASSWORD = 'CrunchBase@04041608'
 
 otp = 0
 username = ""
+user_dict = {}
